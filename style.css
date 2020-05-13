@@ -23,4 +23,11 @@
   font-family: 'Balsamiq Sans', cursive;
   font-size: 100px;
 }
+p{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 5px;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 25px;
+}
 
